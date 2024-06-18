@@ -11,8 +11,7 @@ Excited to announce the completion of Task-04 during my data science internship 
 3. [Setup and Installation](#setup-and-installation)
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
-6. [License](#license)
-7. [Contributors](#contributors)
+6. [Contributors](#contributors)
 
 ## Project Description
 
@@ -126,9 +125,6 @@ prodigy_ds_04/
 └── README.md  # Project documentation
 ```
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contributors
 
